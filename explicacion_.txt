@@ -1,0 +1,12 @@
+hola vamos a ver algunos coceptos de programacion
+
+primero miremos que es una variable.... 
+una variable es cualquier cosa que queremos que la computadora guarde por nosotros para utilizarla cuando la nececitemos, por ejemplo podemos hacer una varible cualquiera como la variable "a" para que se guarde tu nombre completo y cada vez que lo necesites simplemente llamas la variable "a" para referirte a tu nombre
+las variables pueden tener varios tipos de informacion como numeros y letras... por ejemplo las variables de tipo strings guardan informacion de una palabra letra o palabras que necesites guardar
+en la programacion vamos a ver algo que se llaman funciones que simplemente son instrucciones de lo que queremos hacer y ademas lo podemos repetir las veces que queramos de la misma manera, por ejemplo podemos hacer una funcion con caminar en la cual primero vamos a caminar hacia la derecha y luego a la izquierda... con el objetivo de saber en donde estamos al final de la funcion, digamos que caminamos 10 pasos a la derecha y luego 15 a la izquierda.... la funcion nos ayuda a saber en donde estamos al final lo hacemos sumando los pasos a la derecha y restando los pasos a la izquierda y asi si el resultado es positivo estamos a la derecha de donde empezamos y si es negativo a la izquierda... con el ejemplo que tenemos quedaria asi 10-15=-5 al final estamos 5 pasos a la izquierda, en programacion le podemos dar argumentos a las funciones que simplemente son los datos de entrada de las mismas en caso ingresamos dos numeros para indicar cuantos pasos damos en cada direccion... al realizar una funcion la informacion queda siempre dentro de la fucion para poder sacar la informacio es cribimos la parabre return con el datos que queremos sacar de la funcion.
+
+las de caraciones if son condicionamientos en el cual "si" un evento determinado sucede se debe ejecutar una instruccion especifica
+
+los valores booleanos es el leguaje primario de las computadoras en la cual en tiende como 1 y 0 o true and false si lo ponemos en el caso de la vida cotidiana y la computadora es tu casa para saber que tan iluminada esta basta con saber cuantas luces encendidas o apagadas.. asi mismo podemos preguntarle que funciones estan encendias o apagadas en un programa
+
+gracias
